@@ -1,2 +1,2 @@
 # node-jsencrypt
-A port of JSEncrypt to NodeJS
+A port of [JSEncrypt](https://github.com/travist/jsencrypt) to NodeJS.
