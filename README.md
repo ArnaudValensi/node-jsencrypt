@@ -1,8 +1,11 @@
 # node-jsencrypt
 A port of [JSEncrypt](https://github.com/travist/jsencrypt) to NodeJS.
 
-## How To User
+## How To Use
 
+`npm install node-jsencrypt`
+
+Then:
 ```
 const JSEncrypt = require('node-jsencrypt');
 
