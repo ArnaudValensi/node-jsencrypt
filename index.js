@@ -1,5 +1,4 @@
 var getRandomValues = require('get-random-values');
-var fs = require("fs");
 
 var hardLimit = 100,
     ellipsis = "\u2026",
